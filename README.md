@@ -18,3 +18,4 @@
 6. 雖然我不限制或禁止同學們使用google、copilot，或chatGPT來查找程式語法，但過去這個作業經常出現大語言模型產出的程式邏輯完全不正確的狀況。因為我已經在講義中給出虛擬碼，並解釋完整演算法邏輯，因此出現這種邏輯完全不正確的狀況的話我會直接認定這不是自己寫的程式，並嚴重扣分。建議就算使用大語言模型產出部分程式的同學還是要檢查程式邏輯與修改程式碼。
 # Code
 https://github.com/MichelleKu-TMU/HW3_quick_sort/blob/main/Hw3_quicksort.ipynb
+![image](https://github.com/user-attachments/assets/d814a217-be9c-4a8f-bfa4-9fe1b50652a5)
